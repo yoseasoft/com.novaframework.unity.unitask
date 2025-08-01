@@ -1,9 +1,9 @@
 {
-    "name": "Nova-Pkg.UniTask.TextMeshPro",
+    "name": "Nova.UniTask.DOTween",
     "rootNamespace": "",
     "references": [
-        "Nova-Pkg.UniTask",
-        "Unity.TextMeshPro"
+        "Nova.UniTask",
+        "DOTween.Modules"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -14,14 +14,9 @@
     "defineConstraints": [],
     "versionDefines": [
         {
-            "name": "com.unity.textmeshpro",
+            "name": "com.demigiant.dotween",
             "expression": "",
-            "define": "UNITASK_TEXTMESHPRO_SUPPORT"
-        },
-        {
-            "name": "com.unity.ugui",
-            "expression": "2.0.0",
-            "define": "UNITASK_TEXTMESHPRO_SUPPORT"
+            "define": "UNITASK_DOTWEEN_SUPPORT"
         }
     ],
     "noEngineReferences": false
