@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("UniTask.Linq")]
-[assembly: InternalsVisibleTo("UniTask.Addressables")]
-[assembly: InternalsVisibleTo("UniTask.DOTween")]
-[assembly: InternalsVisibleTo("UniTask.TextMeshPro")]
+[assembly: InternalsVisibleTo("Nova-Pkg.UniTask.Linq")]
+[assembly: InternalsVisibleTo("Nova-Pkg.UniTask.Addressables")]
+[assembly: InternalsVisibleTo("Nova-Pkg.UniTask.DOTween")]
+[assembly: InternalsVisibleTo("Nova-Pkg.UniTask.TextMeshPro")]

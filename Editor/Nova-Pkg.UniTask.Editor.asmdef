@@ -1,7 +1,8 @@
 {
-    "name": "UniTask.Editor",
+    "name": "Nova-Pkg.UniTask.Editor",
+    "rootNamespace": "",
     "references": [
-        "UniTask"
+        "Nova-Pkg.UniTask"
     ],
     "includePlatforms": [
         "Editor"
